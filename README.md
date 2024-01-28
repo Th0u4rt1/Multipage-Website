@@ -12,5 +12,7 @@
 <a href="https://gamefaqs.gamespot.com">these</a>
 <a href="https://reddit.com">links</a>
 <b> to satisfy your digital desires!
+
+<a href="https://github.com/Th0u4rt1/Multipage-Website/blob/main/README.md">Return to Home</a>
 </body>
 </html>
