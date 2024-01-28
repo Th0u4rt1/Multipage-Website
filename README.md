@@ -13,6 +13,6 @@
 <a href="https://reddit.com">links</a>
 <b> to satisfy your digital desires!
 
-<a href="https://github.com/Th0u4rt1/Multipage-Website/blob/main/README.md">Return to Home</a>
+<a href="https://th0u4rt1.github.io/Multipage-Website/">Return to Home</a>
 </body>
 </html>
