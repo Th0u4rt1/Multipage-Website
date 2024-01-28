@@ -4,10 +4,14 @@
 <body>
 <html>
 
-<h2>About Myself</h2>
-<p>I enjoy all kinds of video and arcade games, occassional movies and TV, and many more forms of entertainment!</p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/250px-YouTube_Logo_2017.svg.png" alt="The YouTube logo is made of a red round-rectangular box with a white &quot;play&quot; button inside and the word &quot;YouTube&quot; written in black."/>
-<b> Head to this link for all your 
-<a href="https://youtube.com">internet-viewing needs!</a>
+<h2>Websites I frequent</h2>
+<p>Throughout the past several months, I have frequently visited several sites to satisfy my curiosity and keep my sanity in check.</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/GameFAQsLogo.png" alt="The word &quot;GameFAQs&quot; in white lettering on a blue background"/>
+<img src="https://github.com/Th0u4rt1/Multipage-Website/assets/156182504/fa960a23-496a-432d-8dde-998219806c2d"/>
+
+<b> Head to
+<a href="https://gamefaqs.gamespot.com">these</a>
+<a href="https://reddit.com">links</a>
+<b> to satisfy your digital desires!
 </body>
 </html>
